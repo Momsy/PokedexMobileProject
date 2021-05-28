@@ -10,8 +10,11 @@ L'objectif de ce projet est de pouvoir faire en sorte de nous familiariser avec 
 Les différentes notions attendues du livrables sont les suivantes:
 
 -Écran avec une liste d'éléments.
+
 -Écran avec le détail d'un élément.
--Appel WebService à une API Rest
--Stockage de données en cache 
+
+-Appel WebService à une API Rest.
+
+-Stockage de données en cache.
 
 ![](pictures/logo_menu.png)
