@@ -1,4 +1,5 @@
 # PokedexMobileProject
+Student: Moustapha SY Class 33
 Description :
 
 L'objectif de ce projet est de pouvoir faire en sorte de nous familiariser avec le langage KOTLIN, qui se rapporche du langage vu cette année JAVA. Les différents travaux pratiques nous ont permis de nous familiariser avec celui-ci et de comprendre l'aspect théorique accompagné de la pratique avec les != travaux.
