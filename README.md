@@ -1,5 +1,5 @@
 # PokedexMobileProject
-Student: Moustapha SY Class 33.
+Student: Moustapha SY Class 33
 
 Description :
 
