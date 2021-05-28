@@ -11,3 +11,5 @@ Les différentes notions attendues du livrables sont les suivantes:
 -Écran avec le détail d'un élément.
 -Appel WebService à une API Rest
 -Stockage de données en cache 
+
+![](pictures/logo_menu.png)
