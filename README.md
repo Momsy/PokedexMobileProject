@@ -17,6 +17,7 @@ Les différentes notions attendues du livrables sont les suivantes:
 <b> <U> Le contenu de mon livrable: </U> </b>
 
 -Changement du logo de mon application pour rendre le Pokédex plus réaliste   
+-Changement de la couleur de notre barre pour rester dans le thème du Pokédex  
 -Écran avec une liste d'éléments dans notre contexte les élements font références aux Pokémons  
 -Appel WebService  à une API (fichier correspondant PokeAPI)  
 -Stockage des données utilisées en cache
