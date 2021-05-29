@@ -34,5 +34,5 @@ Le Design Pattern MVVM
   <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/Screenshot_1622044757.png" width="350" title="hover text">
   <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/Screenshot_1622058161.png" width="350" title="hover text">
   <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/Screenshot_1622221164.png" width="350" title="hover text">
-  
+  <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/airplanemode.png" width="350" title="hover text">
   </p>
