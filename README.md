@@ -19,6 +19,7 @@ Les différentes notions attendues du livrables sont les suivantes:
 
 Le contenu de mon livrable:
 
+-Changement du logo de mon application pour rendre le Pokédex plus réaliste   
 -Écran avec une liste d'éléments dans notre contexte les élements font références aux Pokémons  
 -Appel WebService  à une API (fichier correspondant PokeAPI)  
 -Stockage des données utilisées en cache
