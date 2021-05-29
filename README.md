@@ -17,6 +17,15 @@ Les différentes notions attendues du livrables sont les suivantes:
 
 -Stockage de données en cache.
 
+Le contenu de mon livrable:
+
+-Écran avec une liste d'éléments dans notre contexte les élements font références aux Pokémons  
+-Appel WebService  à une API (fichier correspondant PokeAPI)  
+-Stockage des données utilisées en cache
+
+Pour faciliter la recherche au sein du Pokédex j'ai rajouté un bouton recherche 
+-Fonctionnalité de recherche 
+-Fonctionnalité pour aider l'utilisateur en lui permettant de voir ce qu'il recherche("Looking for..")
 
 <p align="center">
   <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/logo_menu.png" width="350" title="hover text">
