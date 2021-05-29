@@ -26,10 +26,10 @@ Pour faciliter la recherche au sein du Pokédex j'ai rajouté un bouton recherch
 -Fonctionnalité de recherche    
 -Fonctionnalité pour aider l'utilisateur en lui permettant de voir ce qu'il recherche("Looking for..")
 
-Le Design Pattern MVVM   
+<b> Le Design Pattern MVVM </b>   
 -Différents cas gérer avec l'architecture MVVM   
 
-Notification Firebase   
+<b> Notification Firebase </b>  
 -la création du projet et l'implémentation au sein du code des libraires nécessaire s'est déroulée sans accroche( dernier screen) mais il y a qui un problème est survenu avec le proxy je n'ai pas pu fixer ça pour le rendu   
 
 
