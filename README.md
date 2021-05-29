@@ -18,4 +18,10 @@ Les différentes notions attendues du livrables sont les suivantes:
 -Stockage de données en cache.
 
 ![](pictures/logo_menu.png)
+
 ![](pictures/Screenshot_1622044757.png)
+
+![](pictures/Screenshot_1622058161.png)
+
+
+![](pictures/Screenshot_1622221164.png)
