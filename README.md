@@ -23,8 +23,8 @@ Le contenu de mon livrable:
 -Appel WebService  à une API (fichier correspondant PokeAPI)  
 -Stockage des données utilisées en cache
 
-Pour faciliter la recherche au sein du Pokédex j'ai rajouté un bouton recherche 
--Fonctionnalité de recherche 
+Pour faciliter la recherche au sein du Pokédex j'ai rajouté un bouton recherche   
+-Fonctionnalité de recherche    
 -Fonctionnalité pour aider l'utilisateur en lui permettant de voir ce qu'il recherche("Looking for..")
 
 <p align="center">
