@@ -17,6 +17,8 @@ Les différentes notions attendues du livrables sont les suivantes:
 
 -Stockage de données en cache.
 
+
+
 ![](pictures/logo_menu.png)
 
 ![](pictures/Screenshot_1622044757.png)
@@ -25,3 +27,8 @@ Les différentes notions attendues du livrables sont les suivantes:
 
 
 ![](pictures/Screenshot_1622221164.png)
+
+<p align="center">
+  <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/logo_menu.png" width="350" title="hover text">
+
+  </p>
