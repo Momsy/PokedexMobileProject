@@ -45,7 +45,7 @@ Pour faciliter la recherche au sein du Pokédex j'ai rajouté un bouton recherch
   <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/Capture.JPG" width="350" title="hover text">  
   </p>
    
-  Axes d'amélioration :     
+  <b> Axes d'amélioration : </b>    
 L'application n'est pas encore à son potentiel maximal, je compte continuer à implémenter de nombreux pokémons durant les vacances d'été. Je suis quand même fier du résultat le sujet me parle beaucoup, je suis un grand passionné de l'univers Pokémon. Au début je voulais faire une app dédiée sur la NBA mais je n'ai pas réussi à trouver une API qui correspondait bien à ce que je voulais j'essayerais de voir comment m'y prendre.
   
   <b> Attrapez-les tous ! </b>
