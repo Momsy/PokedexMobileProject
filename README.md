@@ -37,7 +37,7 @@ Le Design Pattern MVVM
   <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/airplanemode.png" width="350" title="hover text">
   
   </p>       
-![](pictures/firebase.png)      
+![](pictures/firebase.PNG)      
   Axes d'amélioration :     
 L'application n'est pas encore à son potentiel maximale, je compte continuer à implémenter de nombreux pokémons durant les vacances d'été. Je suis quand même fier du résultat le sujet me parle beaucoup, je suis un grand passioné de l'univers Pokémon. Au début je voulais faire une app dédiée sur la NBA mais j'ai pas réussi à trouver une API qui correspondait bien à ce que je voulais j'essayerais de voir comment m'y prendre.
   
