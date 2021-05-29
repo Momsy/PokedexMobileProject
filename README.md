@@ -25,6 +25,9 @@ Pour faciliter la recherche au sein du Pokédex j'ai rajouté un bouton recherch
 -Fonctionnalité de recherche    
 -Fonctionnalité pour aider l'utilisateur en lui permettant de voir ce qu'il recherche("Looking for..")
 
+Le Design Pattern MVVM
+-Différents cas gérer avec l'architecture MVVM
+
 <p align="center">
   <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/logo_menu.png" width="350" title="hover text">
   <img src="https://github.com/Momsy/PokedexMobileProject/blob/main/pictures/Screenshot_1622044757.png" width="350" title="hover text">
