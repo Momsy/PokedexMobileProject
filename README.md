@@ -30,7 +30,7 @@ Pour faciliter la recherche au sein du Pokédex j'ai rajouté un bouton recherch
 -Différents cas gérer avec l'architecture MVVM   
 
 <b> Notification Firebase </b>  
--la création du projet et l'implémentation au sein du code des libraires nécessaire s'est déroulée sans accroche( dernier screen) mais il y a qui un problème est survenu avec le proxy je n'ai pas pu fixer ça pour le rendu   
+-la création du projet et l'implémentation au sein du code des libraires nécessaire s'est déroulée sans accroche( dernier screen) mais il y a un problème qui est survenu avec le proxy je n'ai pas pu fixer ça pour le rendu   
 
 
 <p align="center">
